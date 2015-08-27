@@ -1,0 +1,10 @@
+% Name: Son Pham
+% Summer Research on Deep Learning
+% Professor: Brian King
+% Notes on MNIST digits classification
+
+This project tries to classify MNIST digits using Logistic Regression. This note contains some simple important notes about the project
+
+* loadMNISTImages.m and loadMNISTLabels.m:
+
+These are helper function provided by UFLDL to make importing MNIST data from files easier. UFLDL (Unsupervised Feature Learning and Deep Learning) is an online wiki about deep learning created by Andrew Ng et. al.)
